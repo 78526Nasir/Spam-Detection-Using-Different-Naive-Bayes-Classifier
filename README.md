@@ -18,6 +18,10 @@
 * Gaussian Naive Bayes Classifier Accuracy: **0.8459869848156182%**
 
 ### Performance:
+```
+Total test record: 461
+```
+
 * #### Multinomial Naive Bayes
   * Total truthy result : **413**
   * Total falsy result : **48**
