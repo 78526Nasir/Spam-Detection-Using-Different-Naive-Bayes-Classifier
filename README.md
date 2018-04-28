@@ -44,7 +44,6 @@
 > So according to the result summary the `Burnoulli Naive Bayes` classifier will gives the optimal and best result.
 
 <br/>
-<br/>
 
 ## Licence & Copyright 
 This project is LICENCE under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
